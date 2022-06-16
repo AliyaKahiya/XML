@@ -1,1 +1,10 @@
-
+<req>
+     <Summary>...</Summary>
+     <Description>...</Description> 
+     <Actual_result>...</Actual_result> 
+     <Expected_result>...</Expected_result> 
+     <Attachments>...</Attachments> 
+     <Priority>...</Priority> 
+  	 <Severity>...</Severity>
+     <Status>..</Status>
+</req>
